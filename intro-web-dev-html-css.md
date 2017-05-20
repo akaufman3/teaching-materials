@@ -82,6 +82,11 @@ Helpful Q&A on what Github/Git is: [http://stackoverflow.com/questions/11816424/
 ## Introduction to HTML/CSS/Web Development:
 
 **Here are some other helpful sites to get you started**:
+
 [https://generalassembly.wistia.com/medias/qzig8mp4mv](https://generalassembly.wistia.com/medias/qzig8mp4mv)
+
 [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
+
 [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web)
+
+More information on the history of the web and web development: [http://www.fablabsd.org/wia-webdev-resources/](http://www.fablabsd.org/wia-webdev-resources/)
