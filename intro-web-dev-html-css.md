@@ -8,6 +8,7 @@ We use the internet every day for many tasks, but when entering into the world o
 **Quick 5 min video**: [https://www.youtube.com/watch?v=7_LPdttKXPc](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 **Books you can read**:
+
 [Where Wizards Stay Up Late: The Origins Of The Internet](https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674)
 
 [Tubes: The Journey to the Center of the Internet](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952/ref=sr_1_1?s=books&ie=UTF8&qid=1495285188&sr=1-1&keywords=Tubes+the+journey+to+the+center+of+the+internet)
