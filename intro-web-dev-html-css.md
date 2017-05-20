@@ -25,8 +25,6 @@ Great Bloomberg article on the history of code: [https://www.bloomberg.com/graph
 
 ## What is the Command Line?
 
-****Prior to class please have your terminal accessible and if possible please play around a bit with one of the below tutorials**
-
 >“As author Neal Stephenson famously put it, “In the Beginning was the Command Line.”Although a graphical user interface (GUI) can dramatically simplify computer use, in many contexts the most powerful and flexible way to interact with a computer is through a command-line interface (CLI). In such an interface, the user types commands that tell the computer to perform desired tasks. These commands can then be combined in various ways to achieve a variety of outcomes.”
 
 **Type along ~45 min or less**: [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
