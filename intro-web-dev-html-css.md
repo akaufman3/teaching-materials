@@ -7,6 +7,12 @@ We use the internet every day for many tasks, but when entering into the world o
 
 **Quick 5 min video**: [https://www.youtube.com/watch?v=7_LPdttKXPc](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
+Article on the undersea Internet cables: [http://mentalfloss.com/article/60150/10-facts-about-internets-undersea-cables](http://mentalfloss.com/article/60150/10-facts-about-internets-undersea-cables)
+
+## What is code?
+
+Great Bloomberg article on the history of code: [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 ## What is the Command Line?
 
 ****Prior to class please have your terminal accessible and if possible please play around a bit with one of the below tutorials**
