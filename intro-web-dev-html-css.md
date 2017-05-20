@@ -7,6 +7,12 @@ We use the internet every day for many tasks, but when entering into the world o
 
 **Quick 5 min video**: [https://www.youtube.com/watch?v=7_LPdttKXPc](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
+**Books you can read**:
+[Where Wizards Stay Up Late: The Origins Of The Internet](https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674)
+[Tubes: The Journey to the Center of the Internet](https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952/ref=sr_1_1?s=books&ie=UTF8&qid=1495285188&sr=1-1&keywords=Tubes+the+journey+to+the+center+of+the+internet)
+[Introduction to Networking: How the Internet Works](https://www.amazon.com/Introduction-Networking-How-Internet-Works/dp/1511654945/ref=sr_1_1?s=books&ie=UTF8&qid=1495285241&sr=1-1&keywords=Introduction+to+Networking)
+[Weaving the Web: The Origional Design and Ultimate Destiny of the World Wide Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X/ref=sr_1_1?s=books&ie=UTF8&qid=1495285270&sr=1-1&keywords=Weaving+the+web)
+
 Article on the undersea Internet cables: [http://mentalfloss.com/article/60150/10-facts-about-internets-undersea-cables](http://mentalfloss.com/article/60150/10-facts-about-internets-undersea-cables)
 
 ## What is code?
