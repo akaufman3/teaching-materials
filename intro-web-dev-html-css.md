@@ -62,7 +62,7 @@ Helpful Q&A on what Github/Git is: [http://stackoverflow.com/questions/11816424/
 **Great tutorial on version control and git**:
 [https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-## What are dev tools? What is “inspecting?
+## What are dev tools? What is “inspecting"?
 
 >“The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization.”
 
