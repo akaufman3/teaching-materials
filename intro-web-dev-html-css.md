@@ -98,3 +98,6 @@ More information on the history of the web and web development: [http://www.fabl
 [https://www.codecademy.com/courses/html-javascript-css/0/1](https://www.codecademy.com/courses/html-javascript-css/0/1)
 
 [https://www.codecademy.com/en/tracks/htmlcss](https://www.codecademy.com/en/tracks/htmlcss)
+
+## What a day in the life of an engineer?
+[https://us.madgex.com/blog/a-day-in-the-life-of-a-software-developer](https://us.madgex.com/blog/a-day-in-the-life-of-a-software-developer)
