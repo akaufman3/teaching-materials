@@ -7,7 +7,11 @@ We use the internet every day for many tasks, but when entering into the world o
 
 **Quick 5 min video**: [https://www.youtube.com/watch?v=7_LPdttKXPc](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
-**Books you can read**:
+**History of the Internet**: [https://en.wikipedia.org/wiki/History_of_the_Internet](https://en.wikipedia.org/wiki/History_of_the_Internet)
+
+**History of the World Wide Web**: [https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+
+**Books you can read on the Internet and the Web**:
 
 [Where Wizards Stay Up Late: The Origins Of The Internet](https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674)
 
