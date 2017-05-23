@@ -99,5 +99,7 @@ More information on the history of the web and web development: [http://www.fabl
 
 [https://www.codecademy.com/en/tracks/htmlcss](https://www.codecademy.com/en/tracks/htmlcss)
 
+[http://learnlayout.com/no-layout.html](http://learnlayout.com/no-layout.html)
+
 ## What is a day in the life of an engineer like?
 [https://us.madgex.com/blog/a-day-in-the-life-of-a-software-developer](https://us.madgex.com/blog/a-day-in-the-life-of-a-software-developer)
