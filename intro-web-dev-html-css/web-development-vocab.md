@@ -1,3 +1,6 @@
+(Resource Sheet)
+# Web Dev Vocab Cheet Sheet
+
 **GitHub** - a web based version control system that promotes collaboration. A lot of developers build locally before sending to production and Github is a good place to keep a copy of their code in case their computer crashes (much like Google Drive).
 
 **Version control** - developers make a lot of changes and improvements to their code, much like editing an article! Version control helps keep track of the changes made over time.
