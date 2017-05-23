@@ -30,3 +30,19 @@
 **HTML attribute** - Attributes or parameters for HTML tags that modify the tag’s behavior. Attributes are always placed in the opening HTML tag. For example, href is the attribute in the following anchor tag (used to create hyperlinks): <a href="http://www.google.com">Search engine</a>
 
 **Sprint** - is a set period of time during which specific work has to be completed and made ready for review (usually about 2 weeks)
+
+**Agile methedology** - Work is based on an incremental, iterative approach
+
+**Waterfall methedology** - Projects have a discrete start and finish
+
+**URL (Universal Resource Locator)** - the address of a World Wide Web page
+
+**Code** - Code can be a combination of letters, numbers and symbols
+
+**Stack** = the stack of software a dev team uses; the languages that the team uses
+
+**Front-end Languages** - Languages that primary deal with what you see in the browser. They are responsible for displaying data, animations, colors, etc.
+
+**Back-end Langauges** - Languages that are primarily responsible for extracting data from the database.
+
+**<!DOCTYPE html>** - The Document Type element. It is actually an instruction to the web browser about what version of HTML the page is written in.
