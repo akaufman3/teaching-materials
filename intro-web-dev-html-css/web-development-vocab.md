@@ -7,7 +7,7 @@
 
 **HTML** - Hypertext Markup Language. It is the building blocks of the web and helps create the structure of a page using tags. Used for placing text, images and other content on a website.
 
-**HTML tags** - HTML instructions usually appearing in pairs. For instance a <p></p> renders in the browser as a paragraph.
+**HTML tags** - HTML instructions usually appearing in pairs. For instance a paragraph tag renders in the browser as a paragraph.
 
 **CSS** - Cascading Style Sheets. A style sheet language that allows to add color, align elements on the page and much more. It's responsible for the presentation of the HTML elements.
 
