@@ -45,4 +45,4 @@
 
 **Back-end Langauges** - Languages that are primarily responsible for extracting data from the database.
 
-**<!DOCTYPE html>** - The Document Type element. It is actually an instruction to the web browser about what version of HTML the page is written in.
+**Doctype Element** - The Document Type element. It is actually an instruction to the web browser about what version of HTML the page is written in.
