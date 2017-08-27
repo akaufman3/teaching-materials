@@ -1,6 +1,24 @@
 (Resource Sheet)
 # Web Dev Vocab Cheet Sheet
 
+**Coding** - "Coding is [...] writing commands to instruct a computer to do something in a programming language it can understand." (Girls Who Code)
+
+**Software** - Set of programs and applications that make a computer run. Also a collection of code that makes functions like putting filters on photos possible. Examples are programs like Word.
+
+**Hardware** - Pyhsical pars of the computer i.e. screen, keyboard, etc. Phones and tablets are also considered hardware.
+
+**Data** - Any information you put into a computer and use to perform a task or make a calculation.
+
+**Logic** - the rules you want the computer to follow when it processes the data.
+
+**Program** - the jobe you are asking the computer to do.
+
+**Computer functunality** - input -> process -> output (Girls Who Code)
+
+**Computational programming** - planning, problem solving, and analyzing information the way a computer does. (Girls Who Code)
+
+**Computer science** - the study of computers and the different ways they can be used. (Girls Who Code)
+
 **GitHub** - a web based version control system that promotes collaboration. A lot of developers build locally before sending to production and Github is a good place to keep a copy of their code in case their computer crashes (much like Google Drive).
 
 **Version control** - developers make a lot of changes and improvements to their code, much like editing an article! Version control helps keep track of the changes made over time.
